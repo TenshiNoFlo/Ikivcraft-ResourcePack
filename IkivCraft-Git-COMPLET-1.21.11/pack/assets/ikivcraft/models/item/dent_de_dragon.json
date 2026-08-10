@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "ikivcraft:item/dent_de_dragon"
-  }
-}
